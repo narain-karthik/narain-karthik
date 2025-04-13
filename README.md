@@ -62,7 +62,7 @@
 - Features: Smart sorting, metadata display, secure deletion, and real-time progress tracking.
 
 ### 📚 Library Management System — *Freelance Project*
-- Web-based system for **Shrimati Indira Gandhi College**, Trichy.
+- The Library Management System was developed as a **freelance project for Shrimati Indira Gandhi College, a prestigious women's institution located in Tiruchirappalli, Tamil Nadu**. It streamlines essential library operations like book inventory, student and staff memberships, issue and return tracking, and report generation.
 - Features: Admin login, member management, book inventory, issue/return tracking, email alerts, PDF reports.
 
   **Tech Stack:**  
