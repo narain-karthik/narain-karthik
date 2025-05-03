@@ -1,9 +1,10 @@
-# 📄 Narain Karthik Jayakumar — Portfolio
+# 📄 Narain Karthik Jayakumar — Portfolio  
 
 <p align="center">
   <img src="Image/7.4.png" height="60">
   <img src="Image/Cyber Security.png" height="60">
   <img src="Image/Fundamentals.png" height="60">
+   <img src="Image/CCNA-ITN.png" height="60">
   <br>
   <img src="Image/ISC2.png" height="60">
   <img src="Image/NSE - 1.png" height="60">
