@@ -18,7 +18,7 @@
 
 ## 🎓 Education
 
-- **M.Sc. Cyber Security** — Bharathiar University *(July 2023 - July 2025)*
+- **M.Sc. Cyber Security** — Bharathiar University *(July 2023 - April 2025)*
 - **B.Voc. Information Technology** — Bishop Heber College *(March 2020 - March 2023)* — *Grade: 85%*
 
 ---
@@ -53,6 +53,10 @@
 *(Jan 2025 – Present | Remote, Tamil Nadu)*  
 - Building custom software and websites based on client requirements.
 - Specializing in problem analysis and crafting tailored solutions.
+
+### System Administrator
+**GTN Engineering (India) Ltd..** *(May 2025 – Present | Coimbatore, Tamil Nadu)*  
+
 
 ---
 
