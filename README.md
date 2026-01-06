@@ -1,10 +1,12 @@
 # 📄 Narain Karthik Jayakumar — Portfolio  
 
+![Profile Views](https://komarev.com/ghpvc/?username=NarainKarthikJayakumar&color=blue)
+
 <p align="center">
   <img src="Image/7.4.png" height="60">
   <img src="Image/Cyber Security.png" height="60">
   <img src="Image/Fundamentals.png" height="60">
-   <img src="Image/CCNA-ITN.png" height="60">
+  <img src="Image/CCNA-ITN.png" height="60">
   <br>
   <img src="Image/ISC2.png" height="60">
   <img src="Image/NSE - 1.png" height="60">
@@ -54,9 +56,8 @@
 - Building custom software and websites based on client requirements.
 - Specializing in problem analysis and crafting tailored solutions.
 
-### System Administrator
-**GTN Engineering (India) Ltd..** *(May 2025 – Present | Coimbatore, Tamil Nadu)*  
-
+### System Administrator  
+**GTN Engineering (India) Ltd.** *(May 2025 – Present | Coimbatore, Tamil Nadu)*  
 
 ---
 
@@ -67,11 +68,11 @@
 - Features: Smart sorting, metadata display, secure deletion, and real-time progress tracking.
 
 ### 📚 Library Management System — *Freelance Project*
-- The Library Management System was developed as a **freelance project for Shrimati Indira Gandhi College, a prestigious women's institution located in Tiruchirappalli, Tamil Nadu**. It streamlines essential library operations like book inventory, student and staff memberships, issue and return tracking, and report generation.
+- Developed for **Shrimati Indira Gandhi College**, Tiruchirappalli, Tamil Nadu.
 - Features: Admin login, member management, book inventory, issue/return tracking, email alerts, PDF reports.
 
-  **Tech Stack:**  
-  `HTML`, `CSS`, `Python (Flask)`, `Microsoft SQL Server 2008`, `SMTP`, `ReportLab`
+**Tech Stack:**  
+`HTML`, `CSS`, `Python (Flask)`, `Microsoft SQL Server 2008`, `SMTP`, `ReportLab`
 
 ### 🛡️ Byte Find
 - An open-source information-gathering and security assessment tool.
