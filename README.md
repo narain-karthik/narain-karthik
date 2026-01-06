@@ -1,9 +1,7 @@
 # 📄 Narain Karthik Jayakumar — Portfolio  
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NarainKarthikJayakumar)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NarainKarthikJayakumar&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NarainKarthikJayakumar)
-
+![Profile Views](https://komarev.com/ghpvc/?username=narain-karthik&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/narain-karthik?style=social)
 
 <p align="center">
   <img src="Image/7.4.png" height="60">
@@ -23,8 +21,8 @@
 
 ## 🎓 Education
 
-- **M.Sc. Cyber Security** — Bharathiar University *(July 2023 - April 2025)*
-- **B.Voc. Information Technology** — Bishop Heber College *(March 2020 - March 2023)* — *Grade: 85%*
+- **M.Sc. Cyber Security** — Bharathiar University *(July 2023 – April 2025)*
+- **B.Voc. Information Technology** — Bishop Heber College *(March 2020 – March 2023)* — *Grade: 85%*
 
 ---
 
@@ -39,9 +37,11 @@
 
 - **Certified Network Security Practitioner (CNSP)** — The SecOps Group *(Issued June 2024)*  
   `Credential ID: 8825337`
-- **Fortinet NSE Level 1: Certified Associate** *(Issued July 2024 - Expires July 2026)*  
+
+- **Fortinet NSE Level 1: Certified Associate** *(Issued July 2024 – Expires July 2026)*  
   `Credential ID: 3018494892NJ`
-- **Fortinet NSE Level 2: Certified Associate** *(Issued July 2024 - Expires July 2026)*  
+
+- **Fortinet NSE Level 2: Certified Associate** *(Issued July 2024 – Expires July 2026)*  
   `Credential ID: 6976778724NJ`
 
 ---
@@ -50,14 +50,14 @@
 
 ### Network Infrastructure Analyst — *Internship*  
 **Surprise Furniture** *(Aug 2024 – Oct 2024 | Coimbatore, Tamil Nadu)*  
-- Performed network infrastructure assessments and firewall configuration discovery.
-- Proposed cloud migration strategies with pricing and implementation plans.
-- Developed a duplicate file analyzer to optimize data management processes.
+- Network infrastructure assessment and firewall configuration discovery  
+- Cloud migration planning with pricing analysis  
+- Developed a duplicate file analyzer to optimize data management  
 
 ### Freelance Software Developer  
-*(Jan 2025 – Present | Remote, Tamil Nadu)*  
-- Building custom software and websites based on client requirements.
-- Specializing in problem analysis and crafting tailored solutions.
+*(Jan 2025 – Present | Remote)*  
+- Custom software and website development  
+- Requirement analysis and tailored solution design  
 
 ### System Administrator  
 **GTN Engineering (India) Ltd.** *(May 2025 – Present | Coimbatore, Tamil Nadu)*  
@@ -67,19 +67,26 @@
 ## 🚀 Projects
 
 ### 🔍 Duplicate File Finder Pro v1.0
-- Cross-platform tool (Windows/Linux) to efficiently detect and manage duplicate files.
-- Features: Smart sorting, metadata display, secure deletion, and real-time progress tracking.
+- Cross-platform duplicate detection tool (Windows/Linux)
+- Smart sorting, metadata view, secure deletion, real-time progress
 
 ### 📚 Library Management System — *Freelance Project*
-- Developed for **Shrimati Indira Gandhi College**, Tiruchirappalli, Tamil Nadu.
-- Features: Admin login, member management, book inventory, issue/return tracking, email alerts, PDF reports.
+- Developed for **Shrimati Indira Gandhi College**, Tiruchirappalli  
+- Admin login, inventory, issue/return tracking, email alerts, PDF reports  
 
 **Tech Stack:**  
-`HTML`, `CSS`, `Python (Flask)`, `Microsoft SQL Server 2008`, `SMTP`, `ReportLab`
+`HTML` · `CSS` · `Python (Flask)` · `MS SQL Server 2008` · `SMTP` · `ReportLab`
 
 ### 🛡️ Byte Find
-- An open-source information-gathering and security assessment tool.
-- Features: Domain/IP reconnaissance, web scanning, network vulnerability scanning, and Google dorking.
+- Open-source reconnaissance & security assessment tool  
+- Domain/IP recon, web scanning, network scanning, Google dorking  
+
+---
+## Streaks 🔥
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=narain-karthik" />
+</p>
 
 ---
 
