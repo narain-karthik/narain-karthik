@@ -1,7 +1,5 @@
 # 📄 Narain Karthik Jayakumar — Portfolio  
 
-![Profile Views](https://komarev.com/ghpvc/?username=NarainKarthikJayakumar&color=blue)
-
 <p align="center">
   <img src="Image/7.4.png" height="60">
   <img src="Image/Cyber Security.png" height="60">
