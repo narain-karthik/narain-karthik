@@ -1,5 +1,10 @@
 # 📄 Narain Karthik Jayakumar — Portfolio  
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NarainKarthikJayakumar)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NarainKarthikJayakumar&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NarainKarthikJayakumar)
+
+
 <p align="center">
   <img src="Image/7.4.png" height="60">
   <img src="Image/Cyber Security.png" height="60">
